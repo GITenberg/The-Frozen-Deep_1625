@@ -1,0 +1,35 @@
+_repo: The-Frozen-Deep_1625
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Based on the doomed 1845 expedition to the Arctic, The Frozen Deep is
+  a dramatic tale of vengeance and self-sacrifice. Exchanging vows of love with sailor
+  Frank Aldersley the night before his departure, Clara Burnham is haunted by the
+  memory of Richard Wardour, and his mistaken belief that they will one day marry.
+  On different ships, the two men have no cause to meet-until disaster strikes and
+  they find themselves united by their battle for survival. When they learn of their
+  rivalry, there follows an act of pure selflessness, making The Frozen Deep one of
+  Collins' most moving and t.
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Arctic regions -- Discovery and exploration -- Fiction'
+- !lcsh 'Wilderness survival -- Fiction'
+- GITenberg
+title: The Frozen Deep
+url: http://www.gutenberg.org/ebooks/1625
