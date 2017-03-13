@@ -1,5 +1,8 @@
 _repo: The-Frozen-Deep_1625
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Collins, Wilkie
@@ -17,6 +20,8 @@ description: Based on the doomed 1845 expedition to the Arctic, The Frozen Deep 
   they find themselves united by their battle for survival. When they learn of their
   rivalry, there follows an act of pure selflessness, making The Frozen Deep one of
   Collins' most moving and t.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1625#The-Frozen-Deep
 gutenberg_issued: '1999-02-01'
 gutenberg_type: Text
 identifiers:
